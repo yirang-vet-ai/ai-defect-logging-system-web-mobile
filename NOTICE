@@ -1,0 +1,11 @@
+AI-Powered Defect Logging System (Web-based, Mobile & Desktop)
+Copyright 2026 Yirang Jung
+
+This repository is distributed under the Apache License, Version 2.0.
+
+Attribution notice:
+- Repository packaging, documentation, and project scaffolding were prepared for the current
+  NEU surface defect classification workflow based on the included training, inference, and
+  Streamlit application scripts.
+
+This NOTICE file is provided for informational purposes only and does not modify the License.

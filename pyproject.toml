@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ai-defect-logging-system-web-mobile"
+version = "0.1.0"
+description = "Web-based defect classification workflow using MobileNetV2 and Streamlit."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { file = "LICENSE" }
+authors = [
+  { name = "Yirang Jung" }
+]
+dependencies = [
+  "tensorflow",
+  "streamlit",
+  "numpy",
+  "pandas",
+  "Pillow"
+]
+
+[tool.setuptools]
+py-modules = ["app", "predict_one_neu", "train_neu_from_train_validation"]

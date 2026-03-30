@@ -1,0 +1,7 @@
+include README.md
+include LICENSE
+include NOTICE
+include requirements.txt
+include environment.yml
+include pyproject.toml
+recursive-include docs *.md
