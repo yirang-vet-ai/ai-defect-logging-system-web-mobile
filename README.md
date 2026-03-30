@@ -1,6 +1,15 @@
-<img src="cover.png" width="100%">
+<img src="cover.png" width="70%">
 
 # AI-Powered Defect Logging System (Web-based, Mobile & Desktop)
+![Python](https://img.shields.io/badge/Python-3.9+-blue)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
+![Keras](https://img.shields.io/badge/Keras-DeepLearning-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-WebApp-ff4b4b)
+![MobileNetV2](https://img.shields.io/badge/Model-MobileNetV2-green)
+![License](https://img.shields.io/badge/License-Apache%202.0-blue)
+
+Author: Yirang Jung  
+License: Apache License 2.0
 
 ## 1. Overview
 
@@ -165,6 +174,7 @@ Planned extensions:
 ## 11. License
 
 Apache License 2.0
+All images and visual materials in this repository are protected by copyright. Unauthorized use, reproduction, or distribution is prohibited.
 
 See `LICENSE` and `NOTICE` for details.
 
