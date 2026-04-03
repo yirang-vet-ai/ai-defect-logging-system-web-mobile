@@ -9,7 +9,7 @@
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue)
 
 Author: Yirang Jung  
-License: Apache License 2.0
+All right is reserved.
 
 ## 1. Overview
 
@@ -173,7 +173,8 @@ Planned extensions:
 
 ## 11. License
 
-Apache License 2.0
+All right is reserved.
+
 All images and visual materials in this repository are protected by copyright. Unauthorized use, reproduction, or distribution is prohibited.
 
 See `LICENSE` and `NOTICE` for details.
